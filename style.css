@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(72, 205, 228);
+    line-height: 5;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: monospace;
+    font-size: 20px;
+    }
+.heading{
+    font-size: 20px;
+    color: black;
+    font-family: s;
+    width: 100%;
+    border-radius: 10px;
+    border-style: dashed;
+    border-width: 10px;
+}
+canvas{
+    border: 5px white solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
